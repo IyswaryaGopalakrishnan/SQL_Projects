@@ -18,7 +18,3 @@ The project demonstrates the use of:
 
 Database Name: sql_project_2
 
-'''sql
-CREATE DATABASE sql_project_2;
-USE sql_project_2;
-'''
