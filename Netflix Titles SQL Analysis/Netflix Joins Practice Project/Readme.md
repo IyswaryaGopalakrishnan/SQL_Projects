@@ -1,3 +1,4 @@
+# Netflix Titles Joins
 ### Overview
 
 This project is a practice exercise focused on SQL joins using a mini Netflix dataset. It demonstrates how to structure normalized tables and apply different types of joins to answer analytical questions.
