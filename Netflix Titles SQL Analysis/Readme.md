@@ -1,3 +1,5 @@
+# Netflix Titles Analysis
+
 **Overview**
 
 This project analyzes a Netflix dataset using MySQL. It focuses on performing data cleaning, exploration, and analytical queries to extract valuable insights about movies and TV shows available on Netflix.
